@@ -1,3 +1,1 @@
-git test！
-
-git diff!
+学习如何使用GIT
